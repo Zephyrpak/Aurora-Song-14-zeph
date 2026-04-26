@@ -8,6 +8,7 @@
   - type: HumanoidAppearance
     species: Reptilian
     hideLayersOnEquip:
+    - Hair # Aurora's Song - Hair just so they can have a lil more customization
     - Snout
     - HeadTop
     - HeadSide
@@ -95,6 +96,7 @@
   - type: HumanoidAppearance
     species: Reptilian
     hideLayersOnEquip:
+    - Hair # Aurora's Song - Hair just so they can have a lil more customization
     - Snout
     - HeadTop
     - HeadSide
