@@ -39,10 +39,10 @@
   onlyWhitelisted: false # Aurora's Song - Hair just so they can have a lil more customization
   points:
     Hair:
-      points: 1
+      points: 1 # Aurora's Song - Hair just so they can have a lil more customization
       required: false
     FacialHair:
-      points: 1
+      points: 1 # Aurora's Song - Hair just so they can have a lil more customization
       required: false
     Tail:
       points: 1
